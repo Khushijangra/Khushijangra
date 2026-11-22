@@ -10,7 +10,7 @@ Building production-grade intelligent systems across reinforcement learning, ret
 
 B.Tech Computer Science &amp; Engineering (AI) · Bennett University, Greater Noida
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-khushi--jangra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushi-jangra5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khushi--jangra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khushijangra5/)
 [![GitHub](https://img.shields.io/badge/GitHub-Khushijangra-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Khushijangra)
 
 </div>
