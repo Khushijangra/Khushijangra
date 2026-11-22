@@ -132,26 +132,9 @@ graph LR
 
 ---
 
-## Research
 
-| Title | Venue | Status |
-|---|---|---|
-| *Explainable Youth Sports Recommendation Using Asymmetric Contribution Scoring* | Springer LNCS | Under Review |
 
-**Research Interests:** Reinforcement Learning · Multi-Agent Systems · Graph Neural Networks · Intelligent Transportation · Explainable ML · Recommendation Systems
 
----
-
-## Achievements
-
-| Achievement | Details |
-|---|---|
-| **ELEVATE 2026 Hackathon** | Rank #18 / 1,282 teams |
-| **Flipkart GRiD 8.0** | Advanced to Round 3 |
-| **Smart India Hackathon 2025** | Rank 152 / 600+ teams |
-| **Amazon ML Summer School 2026** | Shortlisted for Selection Test |
-
----
 
 ## Currently Exploring
 
